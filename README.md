@@ -1,4 +1,4 @@
-### Proof of concept for Teller Novel blog
+### Proof of concept for [Teller Novel blog](https://zenn.dev/p/tellernovel_inc)
 
 #### by [Oskar Díaz](https://career.tellernovel.com/313494e3fec843c297d0033263d35942)
 
